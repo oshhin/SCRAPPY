@@ -29,7 +29,7 @@ This project demonstrates a basic setup for web scraping using the Scrapy framew
    ```bash
    git clone https://github.com/godlyharry/SCRAPPY.git
    cd SCRAPPY
-   pip install -r requirements.txt
+
  2. **Usage:** 
  `python run_spider.py
 `This script initializes the Scrapy `CrawlerProcess` with configured settings and starts the scraping process using the `ProxySpider` defined in `bot/spiders/proxy_spider.py`.
