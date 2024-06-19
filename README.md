@@ -36,7 +36,7 @@ This project demonstrates a basic setup for web scraping using the Scrapy framew
 2. **Contributing**
 Contributions are welcome! Fork the repository and submit a pull request with your enhancements.
 4. **License**
-This project is licensed under the **MIT License**.
+This project is licensed under the MIT License - see the [License](https://github.com/godlyharry/SCRAPPY/blob/main/LICENSE) file for details.
 
 
 
