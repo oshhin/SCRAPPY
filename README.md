@@ -5,17 +5,16 @@ This project demonstrates a basic setup for web scraping using the Scrapy framew
 
 ## Directory Structure
 
-> bot/ 
-> ├ ── bot/ 
->  │ ├── **init**.py # Initialization file for Python
-> package   
-> │ ├── **settings.py** # Scrapy settings and configurations   │
-> └── spiders/   
-> │ └── **proxy_spider.py**# Example Scrapy spider for web
-> scraping    
-> ├── **proxy_list.txt** # List of proxy servers for rotation   
-> ├── **user_agent_list.txt** # List of user-agent strings for rotation   
-> └── **run_spider.py** # Script to initiate web scraping process
+```
+├── bot/
+│   ├── __init__.py               # Initialization file for Python package
+│   ├── settings.py               # Scrapy settings and configurations
+│   └── spiders/
+│       └── proxy_spider.py       # Example Scrapy spider for web scraping
+├── proxy_list.txt                # List of proxy servers for rotation
+├── user_agent_list.txt           # List of user-agent strings for rotation
+└── run_spider.py                 # Script to initiate web scraping process
+```
 
 ## Files
 
