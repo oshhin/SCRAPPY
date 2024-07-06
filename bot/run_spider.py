@@ -1,3 +1,4 @@
+# MAKE SURE TO CHANGE THE PROXIES
 # run_spider.py
 
 from scrapy.crawler import CrawlerProcess
